@@ -1,0 +1,4 @@
+﻿  AirFrance.cpp
+C:\Users\binet\source\repos\AirFrance\AirFrance\AirFrance.cpp(61,29): warning C4267: 'return' : conversion de 'size_t' en 'long', perte possible de données
+C:\Users\binet\source\repos\AirFrance\AirFrance\AirFrance.cpp(211,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  AirFrance.vcxproj -> C:\Users\binet\source\repos\AirFrance\x64\Debug\AirFrance.exe
